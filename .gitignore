@@ -28,3 +28,4 @@ _ReSharper*/
 # except build/, which is used as an MSBuild target.
 !**/packages/build/
 NuGet.exe
+.vs/

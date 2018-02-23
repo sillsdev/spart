@@ -2,7 +2,7 @@ using System;
 
 namespace Spart
 {
-	public class ParserErrorException : SystemException
+	public class ParserErrorException : Exception
 	{
 		private ParserError _parserError;
 
