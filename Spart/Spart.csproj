@@ -4,13 +4,14 @@
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\spart.snk</AssemblyOriginatorKeyFile>
-    <RepositoryUrl>https://github.com/sillsdev/spart</RepositoryUrl>
+    <RepositoryUrl>https://github.com/sillsdev/spart.git</RepositoryUrl>
     <PackageLicenseUrl>https://opensource.org/licenses/Zlib</PackageLicenseUrl>
     <Copyright>Copyright © Jonathan de Halleux 2003, portions Copyright © 2018 SIL International</Copyright>
     <Authors>Jonathan de Halleux, SIL</Authors>
     <Company>SIL</Company>
     <PackageTags>recursive descent parser generator Spirit</PackageTags>
     <Description>The Spart library is an object oriented recursive descent parser generator framework implemented in C#.</Description>
+    <PackageProjectUrl>https://github.com/sillsdev/spart</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
